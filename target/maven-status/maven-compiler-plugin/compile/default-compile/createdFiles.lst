@@ -1,0 +1,11 @@
+np/roshanadh/orderservice/service/OrderService.class
+np/roshanadh/orderservice/controller/OrderController.class
+np/roshanadh/orderservice/repository/OrderRepository.class
+np/roshanadh/orderservice/dto/OrderRequest.class
+np/roshanadh/orderservice/dto/InventoryResponse.class
+np/roshanadh/orderservice/service/config/WebClientConfig.class
+np/roshanadh/orderservice/dto/OrderLineItemsDto.class
+np/roshanadh/orderservice/OrderServiceApplication.class
+np/roshanadh/orderservice/dto/InventoryResponse$InventoryResponseBuilder.class
+np/roshanadh/orderservice/model/OrderLineItems.class
+np/roshanadh/orderservice/model/Order.class
